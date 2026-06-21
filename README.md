@@ -1,4 +1,4 @@
-# Endless Obstacle Dodging Game
+# FloorRush
 
 A simple 3D endless runner game built with Unity and C#. The player continuously moves forward and must dodge incoming obstacles to survive as long as possible.
 
