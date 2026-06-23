@@ -28,13 +28,6 @@ The player automatically moves forward on an endless path while obstacles appear
 * D / Right Arrow: Move Right
 * Space: Jump (if implemented)
 
-## Project Structure
-
-* `PlayerMovement.cs` – Handles player movement and controls
-* `ObstacleSpawner.cs` – Spawns obstacles at regular intervals
-* `GameManager.cs` – Manages score and game state
-* `UIManager.cs` – Handles score display and game-over screen
-
 ## Future Improvements
 
 * Multiple obstacle types
