@@ -3,6 +3,7 @@
 A simple 3D endless runner game built with Unity and C#. The player continuously moves forward and must dodge incoming obstacles to survive as long as possible.
 
 <img width="1918" height="831" alt="image" src="https://github.com/user-attachments/assets/b6efa01a-3bd4-4a71-b677-c5e5ae30568a" />
+
 ## Features
 
 * Endless forward movement
